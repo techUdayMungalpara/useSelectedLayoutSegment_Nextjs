@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## useSelectedLayoutSegment
+
+Link [https://www.youtube.com/watch?v=6mQ3M1CUGnk&ab_channel=Vercel]
 First, run the development server:
 
 ```bash
